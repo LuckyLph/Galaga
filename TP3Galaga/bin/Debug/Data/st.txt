@@ -1,0 +1,10 @@
+﻿ID_PLAYER==>Joueur---Player
+ID_SCORE==>Pointage :---Score :
+ID_BONUS==>Bonus---Bonus
+ID_LIFE==>Vie :---Life :
+ID_ENTER_YOUR_NAME==>Entrez Votre Nom :---Enter Your Name :
+ID_PRESS_ESC==>Appuyez sur ESC---Press Escape
+ID_TO_QUIT==>Pour Quitter---To Quit
+ID_PRESS_ENTER_TO_START==>Appuyer Sur Entrée Pour Jouer !---Press Enter To Begin !
+ID_LEADERBOARD==>Classement---Leaderboard
+ID_REPLAY==>Voulez Vous Rejouer Une Partie ?---Do You Want To Play Again ?

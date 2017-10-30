@@ -1,0 +1,321 @@
+C:\Cegep\stefoy\H2016\420-V21-SF\01-Evaluations\TP3\TP3ETU\TP3Galaga\bin\Debug\TP3Galaga.exe.config
+C:\Users\Louis-Philippe\Documents\Visual Studio 2013\Projects\TP3Etu\TP3Galaga\bin\Debug\TP3Galaga.exe.config
+C:\Users\PC\Documents\Visual Studio 2013\Projects\GalagaTP3\TP3Galaga\bin\Debug\TP3Galaga.exe.config
+C:\Users\PC\Documents\Visual Studio 2013\Projects\GalagaTP3\TP3Galaga\obj\Debug\TP3Galaga.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2013\Projects\GalagaTP3\TP3Galaga\bin\Debug\csfml-audio-2.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\GalagaTP3\TP3Galaga\bin\Debug\csfml-graphics-2.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\GalagaTP3\TP3Galaga\bin\Debug\csfml-network-2.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\GalagaTP3\TP3Galaga\bin\Debug\csfml-system-2.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\GalagaTP3\TP3Galaga\bin\Debug\csfml-window-2.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\GalagaTP3\TP3Galaga\bin\Debug\Data\lb.txt
+C:\Users\PC\Documents\Visual Studio 2013\Projects\GalagaTP3\TP3Galaga\bin\Debug\Data\Level1.txt
+C:\Users\PC\Documents\Visual Studio 2013\Projects\GalagaTP3\TP3Galaga\bin\Debug\Data\st.txt
+C:\Users\PC\Documents\Visual Studio 2013\Projects\GalagaTP3\TP3Galaga\bin\Debug\libsndfile-1.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\GalagaTP3\TP3Galaga\bin\Debug\openal32.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\GalagaTP3\TP3Galaga\bin\Debug\OpenTK.Compatibility.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\GalagaTP3\TP3Galaga\bin\Debug\OpenTK.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\GalagaTP3\TP3Galaga\bin\Debug\Data\Arts\BlueGalaxian.tga
+C:\Users\PC\Documents\Visual Studio 2013\Projects\GalagaTP3\TP3Galaga\bin\Debug\Data\Arts\Galaga.tga
+C:\Users\PC\Documents\Visual Studio 2013\Projects\GalagaTP3\TP3Galaga\bin\Debug\Data\Arts\GalaganCommander.tga
+C:\Users\PC\Documents\Visual Studio 2013\Projects\GalagaTP3\TP3Galaga\bin\Debug\Data\Arts\Hero.tga
+C:\Users\PC\Documents\Visual Studio 2013\Projects\GalagaTP3\TP3Galaga\bin\Debug\Data\Arts\PurpleGalaxian.tga
+C:\Users\PC\Documents\Visual Studio 2013\Projects\GalagaTP3\TP3Galaga\bin\Debug\Data\Arts\RedGalaxian.tga
+C:\Users\PC\Documents\Visual Studio 2013\Projects\GalagaTP3\TP3Galaga\bin\Debug\Data\Arts\YellowGalaxian.tga
+C:\Users\PC\Documents\Visual Studio 2013\Projects\GalagaTP3\TP3Galaga\bin\Debug\TP3Galaga.exe
+C:\Users\PC\Documents\Visual Studio 2013\Projects\GalagaTP3\TP3Galaga\bin\Debug\TP3Galaga.pdb
+C:\Users\PC\Documents\Visual Studio 2013\Projects\GalagaTP3\TP3Galaga\bin\Debug\sfmlnet-audio-2.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\GalagaTP3\TP3Galaga\bin\Debug\sfmlnet-graphics-2.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\GalagaTP3\TP3Galaga\bin\Debug\sfmlnet-system-2.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\GalagaTP3\TP3Galaga\bin\Debug\sfmlnet-window-2.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\GalagaTP3\TP3Galaga\obj\Debug\TP3Galaga.exe
+C:\Users\PC\Documents\Visual Studio 2013\Projects\GalagaTP3\TP3Galaga\obj\Debug\TP3Galaga.pdb
+C:\Users\PC\Documents\Visual Studio 2013\Projects\GalagaTP3\TP3Galaga\bin\Debug\Data\Arts\New Art\Hero.png
+C:\Users\PC\Documents\Visual Studio 2013\Projects\GalagaTP3\TP3Galaga\bin\Debug\Data\Arts\New Art\BlueGalaxian.png
+C:\Users\PC\Documents\Visual Studio 2013\Projects\GalagaTP3\TP3Galaga\bin\Debug\Data\Arts\New Art\GalaganCommander.png
+C:\Users\PC\Documents\Visual Studio 2013\Projects\GalagaTP3\TP3Galaga\bin\Debug\Data\Arts\New Art\Galaga.png
+C:\Users\PC\Documents\Visual Studio 2013\Projects\GalagaTP3\TP3Galaga\bin\Debug\Data\Arts\New Art\GreenGalaxian.png
+C:\Users\PC\Documents\Visual Studio 2013\Projects\GalagaTP3\TP3Galaga\bin\Debug\Data\Arts\New Art\RedGalaxian.png
+C:\Users\PC\Documents\Visual Studio 2013\Projects\GalagaTP3\TP3Galaga\bin\Debug\Data\Arts\New Art\YellowGalaxian.png
+C:\Users\PC\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\TP3Galaga.exe.config
+C:\Users\PC\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\obj\Debug\TP3Galaga.exe
+C:\Users\PC\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\obj\Debug\TP3Galaga.pdb
+C:\Users\PC\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\csfml-audio-2.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\csfml-graphics-2.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\csfml-network-2.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\csfml-system-2.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\csfml-window-2.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\BlueGalaxian.png
+C:\Users\PC\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\GalaganCommander.png
+C:\Users\PC\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\Galaga.png
+C:\Users\PC\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\Hero.png
+C:\Users\PC\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\GreenGalaxian.png
+C:\Users\PC\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\RedGalaxian.png
+C:\Users\PC\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\YellowGalaxian.png
+C:\Users\PC\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\Data\lb.txt
+C:\Users\PC\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\Data\Level1.txt
+C:\Users\PC\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\Data\st.txt
+C:\Users\PC\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\libsndfile-1.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\openal32.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\OpenTK.Compatibility.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\OpenTK.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\BlueGalaxian.tga
+C:\Users\PC\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\Galaga.tga
+C:\Users\PC\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\GalaganCommander.tga
+C:\Users\PC\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\Hero.tga
+C:\Users\PC\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\PurpleGalaxian.tga
+C:\Users\PC\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\RedGalaxian.tga
+C:\Users\PC\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\YellowGalaxian.tga
+C:\Users\PC\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\TP3Galaga.exe
+C:\Users\PC\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\TP3Galaga.pdb
+C:\Users\PC\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\sfmlnet-audio-2.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\sfmlnet-graphics-2.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\sfmlnet-system-2.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\sfmlnet-window-2.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\obj\Debug\TP3Galaga.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\BlueGalaxianSecondary.png
+C:\Users\PC\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\GalaganCommanderSecondary.png
+C:\Users\PC\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\RedGalaxianSecondary.png
+C:\Users\PC\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\YellowRedGalaxian.png
+C:\Users\PC\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\YellowRedGalaxianSecondary.png
+C:\Users\Louis-Philippe\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\TP3Galaga.exe.config
+C:\Users\Louis-Philippe\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\obj\Debug\TP3Galaga.exe
+C:\Users\Louis-Philippe\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\obj\Debug\TP3Galaga.pdb
+C:\Users\Louis-Philippe\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\csfml-audio-2.dll
+C:\Users\Louis-Philippe\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\csfml-graphics-2.dll
+C:\Users\Louis-Philippe\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\csfml-network-2.dll
+C:\Users\Louis-Philippe\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\csfml-system-2.dll
+C:\Users\Louis-Philippe\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\csfml-window-2.dll
+C:\Users\Louis-Philippe\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\BlueGalaxian.png
+C:\Users\Louis-Philippe\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\BlueGalaxianSecondary.png
+C:\Users\Louis-Philippe\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\GalaganCommander.png
+C:\Users\Louis-Philippe\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\Galaga.png
+C:\Users\Louis-Philippe\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\GalaganCommanderSecondary.png
+C:\Users\Louis-Philippe\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\Hero.png
+C:\Users\Louis-Philippe\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\GreenGalaxian.png
+C:\Users\Louis-Philippe\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\RedGalaxian.png
+C:\Users\Louis-Philippe\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\RedGalaxianSecondary.png
+C:\Users\Louis-Philippe\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\YellowGalaxian.png
+C:\Users\Louis-Philippe\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\YellowRedGalaxian.png
+C:\Users\Louis-Philippe\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\YellowRedGalaxianSecondary.png
+C:\Users\Louis-Philippe\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\Data\lb.txt
+C:\Users\Louis-Philippe\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\Data\Level1.txt
+C:\Users\Louis-Philippe\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\Data\st.txt
+C:\Users\Louis-Philippe\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\libsndfile-1.dll
+C:\Users\Louis-Philippe\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\openal32.dll
+C:\Users\Louis-Philippe\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\OpenTK.Compatibility.dll
+C:\Users\Louis-Philippe\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\OpenTK.dll
+C:\Users\Louis-Philippe\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\BlueGalaxian.tga
+C:\Users\Louis-Philippe\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\Galaga.tga
+C:\Users\Louis-Philippe\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\GalaganCommander.tga
+C:\Users\Louis-Philippe\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\Hero.tga
+C:\Users\Louis-Philippe\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\PurpleGalaxian.tga
+C:\Users\Louis-Philippe\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\RedGalaxian.tga
+C:\Users\Louis-Philippe\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\YellowGalaxian.tga
+C:\Users\Louis-Philippe\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\TP3Galaga.exe
+C:\Users\Louis-Philippe\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\TP3Galaga.pdb
+C:\Users\Louis-Philippe\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\sfmlnet-audio-2.dll
+C:\Users\Louis-Philippe\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\sfmlnet-graphics-2.dll
+C:\Users\Louis-Philippe\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\sfmlnet-system-2.dll
+C:\Users\Louis-Philippe\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\bin\Debug\sfmlnet-window-2.dll
+C:\Users\Louis-Philippe\Documents\Visual Studio 2013\Projects\TP3Galaga\TP3Galaga\obj\Debug\TP3Galaga.csprojResolveAssemblyReference.cache
+C:\Users\PC\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\TP3Galaga.exe.config
+C:\Users\PC\OneDrive\TP3Galaga\TP3Galaga\obj\Debug\TP3Galaga.exe
+C:\Users\PC\OneDrive\TP3Galaga\TP3Galaga\obj\Debug\TP3Galaga.pdb
+C:\Users\PC\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\csfml-audio-2.dll
+C:\Users\PC\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\csfml-graphics-2.dll
+C:\Users\PC\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\csfml-network-2.dll
+C:\Users\PC\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\csfml-system-2.dll
+C:\Users\PC\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\csfml-window-2.dll
+C:\Users\PC\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\BlueGalaxian.png
+C:\Users\PC\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\BlueGalaxianSecondary.png
+C:\Users\PC\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\GalaganCommander.png
+C:\Users\PC\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\Galaga.png
+C:\Users\PC\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\GalaganCommanderSecondary.png
+C:\Users\PC\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\Hero.png
+C:\Users\PC\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\GreenGalaxian.png
+C:\Users\PC\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\RedGalaxian.png
+C:\Users\PC\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\RedGalaxianSecondary.png
+C:\Users\PC\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\YellowGalaxian.png
+C:\Users\PC\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\YellowRedGalaxian.png
+C:\Users\PC\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\YellowRedGalaxianSecondary.png
+C:\Users\PC\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\st.txt
+C:\Users\PC\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\libsndfile-1.dll
+C:\Users\PC\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\openal32.dll
+C:\Users\PC\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\OpenTK.Compatibility.dll
+C:\Users\PC\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\OpenTK.dll
+C:\Users\PC\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\TP3Galaga.exe
+C:\Users\PC\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\TP3Galaga.pdb
+C:\Users\PC\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\sfmlnet-audio-2.dll
+C:\Users\PC\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\sfmlnet-graphics-2.dll
+C:\Users\PC\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\sfmlnet-system-2.dll
+C:\Users\PC\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\sfmlnet-window-2.dll
+C:\Users\PC\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\Fonts\8bitOperatorPlus-Regular.ttf
+C:\Users\Louis-Philippe\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\csfml-audio-2.dll
+C:\Users\Louis-Philippe\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\csfml-graphics-2.dll
+C:\Users\Louis-Philippe\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\csfml-network-2.dll
+C:\Users\Louis-Philippe\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\csfml-system-2.dll
+C:\Users\Louis-Philippe\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\csfml-window-2.dll
+C:\Users\Louis-Philippe\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\BlueGalaxian.png
+C:\Users\Louis-Philippe\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\BlueGalaxianSecondary.png
+C:\Users\Louis-Philippe\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\GalaganCommander.png
+C:\Users\Louis-Philippe\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\Galaga.png
+C:\Users\Louis-Philippe\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\GalaganCommanderSecondary.png
+C:\Users\Louis-Philippe\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\Hero.png
+C:\Users\Louis-Philippe\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\GreenGalaxian.png
+C:\Users\Louis-Philippe\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\RedGalaxian.png
+C:\Users\Louis-Philippe\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\RedGalaxianSecondary.png
+C:\Users\Louis-Philippe\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\YellowGalaxian.png
+C:\Users\Louis-Philippe\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\YellowRedGalaxian.png
+C:\Users\Louis-Philippe\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\YellowRedGalaxianSecondary.png
+C:\Users\Louis-Philippe\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\lb.txt
+C:\Users\Louis-Philippe\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\st.txt
+C:\Users\Louis-Philippe\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\libsndfile-1.dll
+C:\Users\Louis-Philippe\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\openal32.dll
+C:\Users\Louis-Philippe\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\OpenTK.Compatibility.dll
+C:\Users\Louis-Philippe\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\OpenTK.dll
+C:\Users\Louis-Philippe\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\Fonts\8bitOperatorPlus-Regular.ttf
+C:\Users\Louis-Philippe\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\Fonts\8bitOperatorPlus8-Regular.ttf
+C:\Users\Louis-Philippe\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\TP3Galaga.exe.config
+C:\Users\Louis-Philippe\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\TP3Galaga.exe
+C:\Users\Louis-Philippe\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\TP3Galaga.pdb
+C:\Users\Louis-Philippe\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\sfmlnet-audio-2.dll
+C:\Users\Louis-Philippe\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\sfmlnet-graphics-2.dll
+C:\Users\Louis-Philippe\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\sfmlnet-system-2.dll
+C:\Users\Louis-Philippe\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\sfmlnet-window-2.dll
+C:\Users\Louis-Philippe\OneDrive\TP3Galaga\TP3Galaga\obj\Debug\TP3Galaga.csprojResolveAssemblyReference.cache
+C:\Users\Louis-Philippe\OneDrive\TP3Galaga\TP3Galaga\obj\Debug\TP3Galaga.exe
+C:\Users\Louis-Philippe\OneDrive\TP3Galaga\TP3Galaga\obj\Debug\TP3Galaga.pdb
+C:\Users\Louis-Philippe\Desktop\TP3Galaga\TP3Galaga\bin\Debug\csfml-audio-2.dll
+C:\Users\Louis-Philippe\Desktop\TP3Galaga\TP3Galaga\bin\Debug\csfml-graphics-2.dll
+C:\Users\Louis-Philippe\Desktop\TP3Galaga\TP3Galaga\bin\Debug\csfml-network-2.dll
+C:\Users\Louis-Philippe\Desktop\TP3Galaga\TP3Galaga\bin\Debug\csfml-system-2.dll
+C:\Users\Louis-Philippe\Desktop\TP3Galaga\TP3Galaga\bin\Debug\csfml-window-2.dll
+C:\Users\Louis-Philippe\Desktop\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\BlueGalaxian.png
+C:\Users\Louis-Philippe\Desktop\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\BlueGalaxianSecondary.png
+C:\Users\Louis-Philippe\Desktop\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\GalaganCommander.png
+C:\Users\Louis-Philippe\Desktop\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\Galaga.png
+C:\Users\Louis-Philippe\Desktop\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\GalaganCommanderSecondary.png
+C:\Users\Louis-Philippe\Desktop\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\Hero.png
+C:\Users\Louis-Philippe\Desktop\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\GreenGalaxian.png
+C:\Users\Louis-Philippe\Desktop\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\RedGalaxian.png
+C:\Users\Louis-Philippe\Desktop\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\RedGalaxianSecondary.png
+C:\Users\Louis-Philippe\Desktop\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\YellowGalaxian.png
+C:\Users\Louis-Philippe\Desktop\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\YellowRedGalaxian.png
+C:\Users\Louis-Philippe\Desktop\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\YellowRedGalaxianSecondary.png
+C:\Users\Louis-Philippe\Desktop\TP3Galaga\TP3Galaga\bin\Debug\Data\lb.txt
+C:\Users\Louis-Philippe\Desktop\TP3Galaga\TP3Galaga\bin\Debug\Data\Level1.txt
+C:\Users\Louis-Philippe\Desktop\TP3Galaga\TP3Galaga\bin\Debug\Data\st.txt
+C:\Users\Louis-Philippe\Desktop\TP3Galaga\TP3Galaga\bin\Debug\libsndfile-1.dll
+C:\Users\Louis-Philippe\Desktop\TP3Galaga\TP3Galaga\bin\Debug\openal32.dll
+C:\Users\Louis-Philippe\Desktop\TP3Galaga\TP3Galaga\bin\Debug\OpenTK.Compatibility.dll
+C:\Users\Louis-Philippe\Desktop\TP3Galaga\TP3Galaga\bin\Debug\OpenTK.dll
+C:\Users\Louis-Philippe\Desktop\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\BlueGalaxian.tga
+C:\Users\Louis-Philippe\Desktop\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\Fonts\8bitOperatorPlus-Regular.ttf
+C:\Users\Louis-Philippe\Desktop\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\Fonts\8bitOperatorPlus8-Regular.ttf
+C:\Users\Louis-Philippe\Desktop\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\Fonts\Puritan-Regular.ttf
+C:\Users\Louis-Philippe\Desktop\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\Galaga.tga
+C:\Users\Louis-Philippe\Desktop\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\GalaganCommander.tga
+C:\Users\Louis-Philippe\Desktop\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\Hero.tga
+C:\Users\Louis-Philippe\Desktop\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\PurpleGalaxian.tga
+C:\Users\Louis-Philippe\Desktop\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\RedGalaxian.tga
+C:\Users\Louis-Philippe\Desktop\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\YellowGalaxian.tga
+C:\Users\Louis-Philippe\Desktop\TP3Galaga\TP3Galaga\bin\Debug\TP3Galaga.exe.config
+C:\Users\Louis-Philippe\Desktop\TP3Galaga\TP3Galaga\bin\Debug\TP3Galaga.exe
+C:\Users\Louis-Philippe\Desktop\TP3Galaga\TP3Galaga\bin\Debug\TP3Galaga.pdb
+C:\Users\Louis-Philippe\Desktop\TP3Galaga\TP3Galaga\bin\Debug\sfmlnet-audio-2.dll
+C:\Users\Louis-Philippe\Desktop\TP3Galaga\TP3Galaga\bin\Debug\sfmlnet-graphics-2.dll
+C:\Users\Louis-Philippe\Desktop\TP3Galaga\TP3Galaga\bin\Debug\sfmlnet-system-2.dll
+C:\Users\Louis-Philippe\Desktop\TP3Galaga\TP3Galaga\bin\Debug\sfmlnet-window-2.dll
+C:\Users\Louis-Philippe\Desktop\TP3Galaga\TP3Galaga\obj\Debug\TP3Galaga.exe
+C:\Users\Louis-Philippe\Desktop\TP3Galaga\TP3Galaga\obj\Debug\TP3Galaga.pdb
+C:\Users\Louis-Philippe\Desktop\TP3Galaga\TP3Galaga\obj\Debug\TP3Galaga.csprojResolveAssemblyReference.cache
+C:\Users\PC\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\lb.txt
+C:\Users\PC\OneDrive\TP3Galaga\TP3Galaga\obj\Debug\TP3Galaga.csprojResolveAssemblyReference.cache
+C:\Users\PC\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\Capture1.png
+C:\Users\PC\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\Capture2.png
+C:\Users\PC\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\Capture3.png
+C:\Users\Louis-Philippe\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\Capture1.png
+C:\Users\Louis-Philippe\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\Capture2.png
+C:\Users\Louis-Philippe\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\Capture3.png
+C:\Users\PC\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\Fonts\8bitOperatorPlus8-Regular.ttf
+C:\Users\PC\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\Levels\Level0.txt
+C:\Users\Louis-Philippe\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\Levels\Level0.txt
+D:\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\csfml-audio-2.dll
+D:\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\csfml-graphics-2.dll
+D:\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\csfml-network-2.dll
+D:\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\csfml-system-2.dll
+D:\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\csfml-window-2.dll
+D:\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\BlueGalaxian.png
+D:\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\BlueGalaxianSecondary.png
+D:\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\Capture1.png
+D:\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\Capture2.png
+D:\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\Capture3.png
+D:\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\GalaganCommander.png
+D:\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\Galaga.png
+D:\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\GalaganCommanderSecondary.png
+D:\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\Hero.png
+D:\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\GreenGalaxian.png
+D:\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\RedGalaxian.png
+D:\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\RedGalaxianSecondary.png
+D:\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\YellowGalaxian.png
+D:\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\YellowRedGalaxian.png
+D:\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\YellowRedGalaxianSecondary.png
+D:\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\lb.txt
+D:\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\Levels\Level0.txt
+D:\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\st.txt
+D:\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\libsndfile-1.dll
+D:\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\openal32.dll
+D:\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\OpenTK.Compatibility.dll
+D:\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\OpenTK.dll
+D:\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\Fonts\8bitOperatorPlus-Regular.ttf
+D:\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\Fonts\8bitOperatorPlus8-Regular.ttf
+D:\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\TP3Galaga.exe.config
+D:\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\TP3Galaga.exe
+D:\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\TP3Galaga.pdb
+D:\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\sfmlnet-audio-2.dll
+D:\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\sfmlnet-graphics-2.dll
+D:\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\sfmlnet-system-2.dll
+D:\OneDrive\TP3Galaga\TP3Galaga\bin\Debug\sfmlnet-window-2.dll
+D:\OneDrive\TP3Galaga\TP3Galaga\obj\Debug\TP3Galaga.csprojResolveAssemblyReference.cache
+D:\OneDrive\TP3Galaga\TP3Galaga\obj\Debug\TP3Galaga.exe
+D:\OneDrive\TP3Galaga\TP3Galaga\obj\Debug\TP3Galaga.pdb
+C:\Users\Louis-Philippe\OneDrive\Documents\Cégep\Prog\TP3Galaga\TP3Galaga\bin\Debug\csfml-audio-2.dll
+C:\Users\Louis-Philippe\OneDrive\Documents\Cégep\Prog\TP3Galaga\TP3Galaga\bin\Debug\csfml-graphics-2.dll
+C:\Users\Louis-Philippe\OneDrive\Documents\Cégep\Prog\TP3Galaga\TP3Galaga\bin\Debug\csfml-network-2.dll
+C:\Users\Louis-Philippe\OneDrive\Documents\Cégep\Prog\TP3Galaga\TP3Galaga\bin\Debug\csfml-system-2.dll
+C:\Users\Louis-Philippe\OneDrive\Documents\Cégep\Prog\TP3Galaga\TP3Galaga\bin\Debug\csfml-window-2.dll
+C:\Users\Louis-Philippe\OneDrive\Documents\Cégep\Prog\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\BlueGalaxian.png
+C:\Users\Louis-Philippe\OneDrive\Documents\Cégep\Prog\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\BlueGalaxianSecondary.png
+C:\Users\Louis-Philippe\OneDrive\Documents\Cégep\Prog\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\Capture1.png
+C:\Users\Louis-Philippe\OneDrive\Documents\Cégep\Prog\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\Capture2.png
+C:\Users\Louis-Philippe\OneDrive\Documents\Cégep\Prog\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\Capture3.png
+C:\Users\Louis-Philippe\OneDrive\Documents\Cégep\Prog\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\GalaganCommander.png
+C:\Users\Louis-Philippe\OneDrive\Documents\Cégep\Prog\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\Galaga.png
+C:\Users\Louis-Philippe\OneDrive\Documents\Cégep\Prog\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\GalaganCommanderSecondary.png
+C:\Users\Louis-Philippe\OneDrive\Documents\Cégep\Prog\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\Hero.png
+C:\Users\Louis-Philippe\OneDrive\Documents\Cégep\Prog\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\GreenGalaxian.png
+C:\Users\Louis-Philippe\OneDrive\Documents\Cégep\Prog\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\RedGalaxian.png
+C:\Users\Louis-Philippe\OneDrive\Documents\Cégep\Prog\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\RedGalaxianSecondary.png
+C:\Users\Louis-Philippe\OneDrive\Documents\Cégep\Prog\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\YellowGalaxian.png
+C:\Users\Louis-Philippe\OneDrive\Documents\Cégep\Prog\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\YellowRedGalaxian.png
+C:\Users\Louis-Philippe\OneDrive\Documents\Cégep\Prog\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\New Art\YellowRedGalaxianSecondary.png
+C:\Users\Louis-Philippe\OneDrive\Documents\Cégep\Prog\TP3Galaga\TP3Galaga\bin\Debug\Data\lb.txt
+C:\Users\Louis-Philippe\OneDrive\Documents\Cégep\Prog\TP3Galaga\TP3Galaga\bin\Debug\Data\Levels\Level0.txt
+C:\Users\Louis-Philippe\OneDrive\Documents\Cégep\Prog\TP3Galaga\TP3Galaga\bin\Debug\Data\st.txt
+C:\Users\Louis-Philippe\OneDrive\Documents\Cégep\Prog\TP3Galaga\TP3Galaga\bin\Debug\libsndfile-1.dll
+C:\Users\Louis-Philippe\OneDrive\Documents\Cégep\Prog\TP3Galaga\TP3Galaga\bin\Debug\openal32.dll
+C:\Users\Louis-Philippe\OneDrive\Documents\Cégep\Prog\TP3Galaga\TP3Galaga\bin\Debug\OpenTK.Compatibility.dll
+C:\Users\Louis-Philippe\OneDrive\Documents\Cégep\Prog\TP3Galaga\TP3Galaga\bin\Debug\OpenTK.dll
+C:\Users\Louis-Philippe\OneDrive\Documents\Cégep\Prog\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\Fonts\8bitOperatorPlus-Regular.ttf
+C:\Users\Louis-Philippe\OneDrive\Documents\Cégep\Prog\TP3Galaga\TP3Galaga\bin\Debug\Data\Arts\Fonts\8bitOperatorPlus8-Regular.ttf
+C:\Users\Louis-Philippe\OneDrive\Documents\Cégep\Prog\TP3Galaga\TP3Galaga\bin\Debug\TP3Galaga.exe.config
+C:\Users\Louis-Philippe\OneDrive\Documents\Cégep\Prog\TP3Galaga\TP3Galaga\bin\Debug\TP3Galaga.exe
+C:\Users\Louis-Philippe\OneDrive\Documents\Cégep\Prog\TP3Galaga\TP3Galaga\bin\Debug\TP3Galaga.pdb
+C:\Users\Louis-Philippe\OneDrive\Documents\Cégep\Prog\TP3Galaga\TP3Galaga\bin\Debug\sfmlnet-audio-2.dll
+C:\Users\Louis-Philippe\OneDrive\Documents\Cégep\Prog\TP3Galaga\TP3Galaga\bin\Debug\sfmlnet-graphics-2.dll
+C:\Users\Louis-Philippe\OneDrive\Documents\Cégep\Prog\TP3Galaga\TP3Galaga\bin\Debug\sfmlnet-system-2.dll
+C:\Users\Louis-Philippe\OneDrive\Documents\Cégep\Prog\TP3Galaga\TP3Galaga\bin\Debug\sfmlnet-window-2.dll
+C:\Users\Louis-Philippe\OneDrive\Documents\Cégep\Prog\TP3Galaga\TP3Galaga\obj\Debug\TP3Galaga.csprojResolveAssemblyReference.cache
+C:\Users\Louis-Philippe\OneDrive\Documents\Cégep\Prog\TP3Galaga\TP3Galaga\obj\Debug\TP3Galaga.csproj.CoreCompileInputs.cache
+C:\Users\Louis-Philippe\OneDrive\Documents\Cégep\Prog\TP3Galaga\TP3Galaga\obj\Debug\TP3Galaga.exe
+C:\Users\Louis-Philippe\OneDrive\Documents\Cégep\Prog\TP3Galaga\TP3Galaga\obj\Debug\TP3Galaga.pdb
